@@ -1,4 +1,4 @@
-<h1 align="center" style='no-border;'> Hello from Dev-of-Future
+<h1 align="center" style="border: none;"> Hello from Dev-of-Future
 
 <h2  align="center" style="border: none;"> 💫 About Me </h2>
 
@@ -9,7 +9,7 @@
 <br></br>
  </p>
 
-<h2  align="center"> 💻 Languages and Tools</h2>
+<h2  align="center" style="border: none;"> 💻 Languages and Tools</h2>
 
 <div style="margin-left: auto; margin-right: auto; width: fit-content">
   <table style="display: flex; align-items: flex-start; align: center">
