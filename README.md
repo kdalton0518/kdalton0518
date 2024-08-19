@@ -3,7 +3,7 @@
 <h2  align="center" style="border: none;"> 💫 About Me </h2>
 
  <p  align="center">
-  - 🔭 Senior Software Engineer with over 7 years</br>
+  - 🔭 Senior Full Stack Engineer with over 7 years</br>
   - 👍 Ask me about Reactjs,Nextjs or any tech related stuff</br>
   - 🌱 I’m looking to collaborate on open source projects</br>
 <br></br>
