@@ -131,17 +131,16 @@
   </tr>
   </table>
 
-
 </div>
 
- <br></br>
+<br></br>
 
 <div align="center">
 
-![Dev-of-Future's Most Used Langauges](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dev-of-future&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)   
+![Dev-of-Future's Most Used Langauges](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kdalton0518&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)
 
-
-![Github Status](https://denvercoder1-github-readme-stats.vercel.app/api/?username=dev-of-future&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
+![Github Status](https://denvercoder1-github-readme-stats.vercel.app/api/?username=kdalton0518&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
 
 ![](https://readme-typing-svg.herokuapp.com/?lines=💥FullStack%20Developer💥;I%20love%20coding;✨Backend%20Engineer✨;✨Frontend%20Expert✨;✨React%20Master✨;🏆Professional%20coding%20experience🏆&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
+
 </div>
